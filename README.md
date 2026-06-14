@@ -279,3 +279,4 @@ only one photo a day. It helps people improve their photography and appreciate t
 * [Sumo](https://sumo.com/) - The easiest way to turn your visitors into customers. 
 * [Hello Bar](https://www.hellobar.com/) - Convert visitors into customers with a Hello Bar 
 * [Blog Ideas Generator](https://www.hubspot.com/blog-topic-generator) - HubSpot’s free Blog Ideas Generator tool gives you a year’s worth of blog post ideas.  
+* [ToolsNova](https://toolsnova.net) - 100 free browser-based tools for developers, traders and analysts. JSON formatter, Base64 encoder, hash generator, pip calculator and more. No signup required.
